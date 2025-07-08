@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  background: var(--primary, #0A2647);
+  padding: 13px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  letter-spacing: 0.01em;
+}
+.navbar-spacer {
+  flex: 1;
+}
